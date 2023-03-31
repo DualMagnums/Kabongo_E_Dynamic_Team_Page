@@ -1,0 +1,152 @@
+body {
+    background-color: #0f4d4b;
+}
+
+body header {
+	background-color: #4e130b;
+    border-top: solid #761b0f 20px;
+    border-bottom: solid #761b0f 20px;
+    text-align: center;
+}
+
+body main h1 {
+    background-color: #0a4140;
+    color: white;
+    font-family: 'Gotham', Helvetica, sans-serif;
+    font-size: 80px;
+    font-weight: 600;
+    padding: 5px;
+    text-align: center;
+    text-shadow: black 2px 1px 10px;
+}
+body main h2 p {
+    color: white;
+    font-family: 'Gotham', Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 10px;
+    padding: 5px;
+    text-align: center;
+    text-shadow: black 2px 1px 10px;
+}
+body main h3 p {
+    color: white;
+    font-family: 'Gotham', Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 100px;
+    padding: 5px;
+    text-align: center;
+    text-shadow: black 2px 1px 10px;
+}
+body main div img {
+    display: block;
+    border: solid 5px #761b0f;
+    margin-bottom: 20px;
+}
+
+body main div h3 a {
+    color: white;
+    font-family: 'Gotham', Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 100px;
+    padding: 5px;
+    text-align: center;
+    text-shadow: black 2px 1px 10px;
+}
+
+button {
+    background-color: #761b0f;
+    border: solid 3px #c9311d;
+    color: white;
+    font-family: 'Gotham', Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 5px;
+    cursor: pointer;
+    text-shadow: black 2px 1px 10px;
+
+}
+.list-property { 
+    color: white;
+    font-family: 'Gotham', Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-shadow: black 2px 1px 10px;
+}
+
+/* footer */
+
+#footer {
+	height :130px;
+	width :100%;
+	padding :5px 0;
+	margin-top :20px;
+	background-color: #4e130b;
+    border-top: solid #761b0f 20px;
+    border-bottom: solid #761b0f 20px;
+}
+#footer div {
+	width :960px;
+	margin :0 auto;
+}
+#footer div ul {
+	list-style-type :none;
+	margin :0;
+	padding :0;
+}
+
+#footer div ul li img {
+	border :0;
+}
+#footer div ul li {
+	float :left;
+	width :300px;
+	padding :0 5px;
+	text-align :center;
+}
+#footer div ul li h2 {
+    color: white;
+    font-family: 'Gotham', Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+	margin :10px 0;
+	padding :0;
+    text-shadow: black 2px 2px 7px;
+}
+#footer div ul li h3 {
+    color: white;
+    font-family: 'Gotham', Helvetica, sans-serif;
+    font-size: 23px;
+    font-weight: 600;
+	margin :10px 0;
+	padding :0;
+}
+#footer div ul li h3 a:link {
+    color: #ffffff;
+	text-decoration: none;
+    text-shadow: black 2px 2px 7px;
+}
+.phone:link {
+	color: white;
+    font-family: 'Gotham', Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+	text-decoration: none;
+}
+
+#footer div ul li img.logo_foot {
+	margin-top :20px;
+}
+
+#footer div ul li span {
+	display :block;
+	color: white;
+    font-family: 'Gotham', Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 10px;
+    text-align: center;
+    text-shadow: black 2px 1px 4px;
+}
